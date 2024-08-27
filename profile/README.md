@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 
-**Welcome to the Tooolbox Github:**
+**Welcome to the Ex Machina Parlor Github:**
 
 
