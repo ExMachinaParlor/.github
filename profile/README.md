@@ -1,10 +1,3 @@
-<!--
-Ex Machina Parlor GitHub Organization Homepage README
-Suggested location in the org profile repo:
-.github/profile/README.md
-
--->
-
 <div align="center">
 
 # Ex Machina Parlor
@@ -20,7 +13,6 @@ Suggested location in the org profile repo:
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=kalilinux)](#)
 [![Robotics](https://img.shields.io/badge/Focus-Robotics-purple?style=for-the-badge&logo=ros)](#)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Community%20Driven-green?style=for-the-badge&logo=opensourceinitiative)](#)
-
 
 <br>
 
@@ -48,8 +40,87 @@ Lab online. Projects loading...
 ```
 
 </div>
+---
+
+## Recent and Featured Projects
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Tengu Marauder Vanguard
+
+<img src="https://img.shields.io/badge/Status-Most%20Recent-success?style=flat-square">
+
+A modular cybersecurity robotics platform and toolkit for building, deploying, and demonstrating cyber-physical security capabilities.
+
+**Highlights**
+
+- Recent Black Hat USA 2025 Arsenal and DEFCON 33 demo focus
+- Modular cyber-robotics payload concept
+- Built around the Tengu Marauder project family
+- Designed for workshops, demos, and field experimentation
+
+[Black Hat / DEFCON Announcement](https://www.linkedin.com/posts/exmachinaparlor_black-hat-activity-7356716757954269184-1j9o)  
+[GitHub Organization](https://github.com/ExMachinaParlor)
+
+</td>
+<td width="33%" align="center">
+
+### Tengu Marauder
+
+<img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square">
+
+A mobile platform based on the ESP32 microcontroller that combines WiFi security capabilities with robotic control and live video streaming.
+
+**Highlights**
+
+- WiFi scanning
+- Packet analysis
+- ESP32-CAM video streaming
+- ROS2 movement integration
+- DEFCON 32 Demo Labs project
+
+[Tengu Marauder Repo](https://github.com/ExMachinaParlor/Tengu-Marauder)  
+[Tengu Marauder at DEFCON 32](https://infocondb.org/con/def-con/def-con-32/tengu-marauder)
+
+</td>
+<td width="33%" align="center">
+
+### Strix Interceptor
+
+<img src="https://img.shields.io/badge/Status-Prototype-orange?style=flat-square">
+
+An open-source UAV security research platform designed for drone interception, autonomous flight, stability control, and RF-aware experimentation.
+
+**Highlights**
+
+- UAV security research
+- Pixhawk flight controller
+- Raspberry Pi integration
+- HackRF One payload concepts
+- DEFCON 31 Demo Labs project
+
+[Strix Interceptor at DEFCON 31](https://infocondb.org/con/def-con/def-con-31/strix-interceptor)
+
+</td>
+</tr>
+</table>
 
 ---
+
+## Project Quick Links
+
+<div align="center">
+
+[![Tengu Marauder](https://img.shields.io/badge/Tengu%20Marauder-Repository-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ExMachinaParlor/Tengu-Marauder)
+[![Tengu Vanguard](https://img.shields.io/badge/Tengu%20Marauder%20Vanguard-Most%20Recent-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ExMachinaParlor)
+[![Projects Page](https://img.shields.io/badge/Projects-Robotic%20Hacking%20Units-purple?style=for-the-badge&logo=githubpages&logoColor=white)](https://exmachinaparlor.org/projects.html)
+[![DEFCON 32](https://img.shields.io/badge/DEFCON%2032-Tengu%20Marauder-black?style=for-the-badge&logo=hackaday&logoColor=white)](https://infocondb.org/con/def-con/def-con-32/tengu-marauder)
+[![DEFCON 31](https://img.shields.io/badge/DEFCON%2031-Strix%20Interceptor-black?style=for-the-badge&logo=hackaday&logoColor=white)](https://infocondb.org/con/def-con/def-con-31/strix-interceptor)
+
+</div>
+
 
 ## What We Are
 
@@ -100,180 +171,6 @@ We believe the best way to learn is to build real systems, break them safely, un
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Tengu Marauder
-
-A mobile cyber-robotics platform built around ESP32-based wireless security tooling, robotic control, and live video experimentation.
-
-**Focus Areas**
-
-- ESP32 Marauder integration
-- WiFi scanning and packet analysis
-- Robot mobility and remote control
-- ESP32-CAM video streaming
-- Future modular payload support
-
-[View Project](https://github.com/ExMachinaParlor/Tengu-Marauder)
-
-</td>
-<td width="50%">
-
-### Strix Interceptor
-
-An experimental UAV security and drone-defense research platform exploring autonomous interception concepts, RF-aware payloads, and aerial robotics.
-
-**Focus Areas**
-
-- UAV security research
-- RF-aware drone testing
-- Autonomous navigation concepts
-- Swarm-capable future work
-- Defensive robotics experimentation
-
-[View Project](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Anansi
-
-A hexapod cybersecurity robot concept for mobile sensor payloads, wireless security testing, and robotics education.
-
-**Focus Areas**
-
-- Hexapod locomotion
-- Cyber-physical systems
-- Modular payloads
-- ROS2 experimentation
-- Field-deployable robotics
-
-[View Project](#)
-
-</td>
-<td width="50%">
-
-### Cerberus
-
-A quadruped cybersecurity platform concept focused on mobility, remote operations, and tactical cyber-physical experimentation.
-
-**Focus Areas**
-
-- Quadruped robotics
-- Sensor fusion
-- Security payload testing
-- Field robotics
-- Autonomous operations
-
-[View Project](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## Project Showcase
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Tengu Marauder
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
-
-Mobile ESP32-based cyber-robotics platform for wireless security experimentation.
-
-**Stack:** ESP32 · ROS2 · Python · WiFi
-
-[Repository](https://github.com/ExMachinaParlor/Tengu-Marauder)
-
-</td>
-
-<td align="center" width="33%">
-
-### Strix Interceptor
-
-<img src="https://img.shields.io/badge/Status-Prototype-orange?style=flat-square">
-
-Experimental UAV platform focused on drone defense, RF payloads, and autonomous interception concepts.
-
-**Stack:** Pixhawk · Raspberry Pi · HackRF · UAV
-
-[Repository](#)
-
-</td>
-
-<td align="center" width="33%">
-
-### Anansi
-
-<img src="https://img.shields.io/badge/Status-Concept-blue?style=flat-square">
-
-Hexapod cybersecurity robot designed for mobile sensing, field testing, and education.
-
-**Stack:** ROS2 · Linux · Sensors · Robotics
-
-[Repository](#)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="33%">
-
-### Cerberus
-
-<img src="https://img.shields.io/badge/Status-Concept-blueviolet?style=flat-square">
-
-Quadruped cybersecurity platform for tactical mobility and cyber-physical experimentation.
-
-**Stack:** ROS2 · SBC · Sensors · Remote Ops
-
-[Repository](#)
-
-</td>
-
-<td align="center" width="33%">
-
-### Cyber Range
-
-<img src="https://img.shields.io/badge/Status-Infrastructure-critical?style=flat-square">
-
-Virtualized red, blue, and purple team environment for hands-on security training.
-
-**Stack:** Proxmox · OPNsense · SIEM · Linux
-
-[Repository](#)
-
-</td>
-
-<td align="center" width="33%">
-
-### Fabrication Lab
-
-<img src="https://img.shields.io/badge/Status-Operational-success?style=flat-square">
-
-3D printing, scanning, soldering, and prototyping support for hardware-focused projects.
-
-**Stack:** 3D Printing · CAD · Electronics
-
-[Repository](#)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Lab Status
 
 | Area | Status | Notes |
@@ -282,7 +179,7 @@ Virtualized red, blue, and purple team environment for hands-on security trainin
 | Robotics Lab | Building | ROS2 platforms and mobile payloads |
 | Wireless Lab | Active | ESP32, SDR, WiFi, Bluetooth experimentation |
 | Fabrication | Active | 3D printing, scanning, soldering, prototyping |
-| Public Workshops | 🟡 Planning | Member classes and community sessions |
+| Public Workshops | Planning | Member classes and community sessions |
 | Documentation | Ongoing | Project writeups, build guides, and lab notes |
 
 ---
@@ -395,40 +292,6 @@ graph TD
 
 ---
 
-## Embedded Media / Demo Links
-
-GitHub README files do not render real iframes, but linked preview images, GIFs, badges, and GitHub Pages links work well.
-
-### Website Links
-
-<a href="https://exmachinaparlor.org/">
-  <img src="https://img.shields.io/badge/Main%20Website-exmachinaparlor.org-blue?style=for-the-badge&logo=githubpages" alt="Main Website">
-</a>
-
-<a href="https://exmachinaparlor.org/projects.html">
-  <img src="https://img.shields.io/badge/Projects-Robotic%20Hacking%20Units-purple?style=for-the-badge&logo=github" alt="Projects">
-</a>
-
-<a href="https://exmachinaparlor.org/events.html">
-  <img src="https://img.shields.io/badge/Events-Philly%20Tech%20Calendar-green?style=for-the-badge&logo=googlecalendar" alt="Events">
-</a>
-
-<a href="https://github.com/ExMachinaParlor">
-  <img src="https://img.shields.io/badge/GitHub-Ex%20Machina%20Parlor-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-### Preview Image Pattern
-
-Use this pattern when you have a screenshot, GIF, or preview image:
-
-```md
-<a href="https://your-demo-link.example">
-  <img src="https://your-preview-image.png" alt="Demo Preview">
-</a>
-```
-
----
-
 ## Tools, Platforms, and Technologies
 
 <div align="center">
@@ -448,10 +311,6 @@ Use this pattern when you have a screenshot, GIF, or preview image:
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 </div>
-
-
-
-
 
 ---
 
@@ -501,8 +360,8 @@ Use this pattern when you have a screenshot, GIF, or preview image:
 
 | Project | Description | Status |
 |---|---|---|
+| **Tengu Marauder Vanguard** | Advanced modular framework and toolkit for modular cybersecurity robot operations | Most Recent / Active |
 | **Tengu Marauder** | ESP32-based wireless security robotics platform | Active |
-| **Tengu Marauder Vanguard** | Advanced modular framework and toolkit concept for Tengu Marauder operations | Active / Planning |
 | **Strix Interceptor** | UAV security and drone interception research platform | Research / Prototype |
 | **Anansi** | Hexapod cybersecurity robot concept | Concept |
 | **Cerberus** | Quadruped cybersecurity robot concept | Concept |
